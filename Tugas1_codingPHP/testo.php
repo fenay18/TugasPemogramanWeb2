@@ -1,4 +1,7 @@
-<?php
+<html>
+  <title> Data Mahasiswa </title>
+  <body>
+  <?php
 
 $NIM 		: "14.111.033";
 $NAMA 		: "FHENY ANGGRAENI RAHMAT";
@@ -9,4 +12,8 @@ echo "NAMA		: " . $NAMA . "<br>";
 echo "JURUSAN	: " . $JURUSAN . "<br>";
 
 ?>
+</html>
+  </body>
+
+
 
